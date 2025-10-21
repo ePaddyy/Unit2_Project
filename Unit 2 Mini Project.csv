@@ -1,0 +1,4 @@
+Sheet Name,Description
+Accounts,"Includes information about the customers’ financial accounts. Each record shows the account type (e.g., savings or current), balance, and last update date, linked by customer_id."
+Customers,"Contains personal details of each customer such as name, region, age, and occupation. Each customer is uniquely identified by a customer_id."
+Transactions,"Records all financial transactions made by customers, including the transaction date, category (e.g., food, transport), amount, and payment method. Each transaction is associated with a customer_id."
